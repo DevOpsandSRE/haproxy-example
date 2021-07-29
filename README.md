@@ -1,2 +1,3 @@
-# haproxy-example
-This shows how to use a .map file in an HAProxy configuration
+# DSI HAProxy Example
+
+## This example shows how to route traffic to a specific backend host header by the use of a .map file.
